@@ -1,0 +1,9 @@
+title: Paladins' Maps
+description: A collection of top down views of Paladins' Maps
+show_downloads: true
+show_credits: false
+google_analytics: UA-135076023-1
+theme: jekyll-theme-midnight
+include:
+  - "_*_.html"
+  - "_*_.*.html"
