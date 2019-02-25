@@ -1,12 +1,12 @@
 - [Ascension Peak](Ascension.png)
-- [Bright Marsh](Brightmarsh.bmp)
+- [Brightmarsh](Brightmarsh.bmp)
 - [Fish Market](FishMarket.bmp)
 - [Frog Isle](FrogIsle.bmp)
 - [Ice Mines](IceMines.png)
 - [Jaguar Falls](JaguarFalls.bmp)
 - [Serpent Beach](SerpentBeach.bmp)
-- Shattered Desert
+- Shattered Desert (Pls tweet [@Thunderbrush](https://twitter.com/ThunderBrush))
 - [Splitstone Quarry](SplitstoneQuarry.bmp)
 - [Stone Keep](StoneKeep.bmp)
 - [Timber Mill](TimberMill.png)
-- Warders Gate
+- Warders Gate (Pls tweet [@Thunderbrush](https://twitter.com/ThunderBrush))
